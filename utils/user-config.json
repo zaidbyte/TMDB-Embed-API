@@ -3,7 +3,7 @@
   "configVersion": 1,
   "tmdbApiKeys": ["93819c90c5d8c05d50fd8096a2059480"],
   "enableShowboxProvider": true,
-  "febboxCookies": [],
+  "febboxCookies": ["eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3Nzc0MjYxMzEsIm5iZiI6MTc3NzQyNjEzMSwiZXhwIjoxODA4NTMwMTUxLCJkYXRhIjp7InVpZCI6MTY4MjA0OCwidG9rZW4iOiI0ZmJhZDJhZGE5NzYxNmUzNjM0YTJhYzY4ODY5ZWNmNSJ9fQ.rT9_JFEs-5uiullX9z2jF43XdcgWmpa_DiHMz5xh9Rc"],
   "enable4khdhubProvider": true,
   "enableMoviesmodProvider": true,
   "enableMp4hydraProvider": true,
